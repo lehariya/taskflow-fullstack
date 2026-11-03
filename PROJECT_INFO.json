@@ -1,0 +1,17 @@
+{
+  "project": "TaskFlow \u2013 Todo Tracker & Product Explorer",
+  "stack": [
+    "React",
+    "Vite",
+    "Python",
+    "Flask",
+    "SQLite",
+    "Fake Store API"
+  ],
+  "modules": [
+    "Todo update counter",
+    "Bulk todo creation",
+    "Product grid",
+    "Product details"
+  ]
+}
